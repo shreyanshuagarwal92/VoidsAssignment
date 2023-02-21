@@ -12,7 +12,7 @@ The project was developed with a focus on development and is not yet ready for p
 
 - run `docker-compose up -d` to start the servers inside docker containers
 - run `docker-compose down --rmi all -v --remove-orphans` to start the stop inside docker containers
-- Environment Variables are declared in docker-compose file.
+- Environment Variables are declared in docker-compose file, please add them before you start docker containers
 
 ## Approach to project
 
